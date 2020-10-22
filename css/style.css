@@ -6,6 +6,12 @@
   position: relative;
 }
 
+.nested_box {
+  height: 200px;
+  background-color:	#f07f80;
+  border: 3px solid pink;
+  position: relative;
+}
 
 nav {
   top: 50%;
