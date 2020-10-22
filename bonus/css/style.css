@@ -1,0 +1,13 @@
+.pixel [class*="col-"] {
+  height: 100px;
+  background-color: #88aacc;
+}
+body {
+  background-color: #88aacc;
+}
+.bg_sky {
+  background-color: #88aacc;
+}
+img {
+  height: 100%;
+}
